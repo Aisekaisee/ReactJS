@@ -18,3 +18,8 @@
 
 03_Basics -> Creating your own react library
 -> Trying to mimick what react does using html and js
+-> Made some changes in the 02_basics_vite and investigated how react works and accepts which kind of inputs for rendering.
+
+04_Counter -> Built a basic counter program
+-> Add button increases the value
+-> Remove buttone decreases the value
