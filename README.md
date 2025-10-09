@@ -23,3 +23,16 @@
 04_Counter -> Built a basic counter program
 -> Add button increases the value
 -> Remove buttone decreases the value
+
+05_theory -> React fibre,reconcialiation and virtual DOM concept
+-> Difference between reconcialiation and rendering
+
+06_Tailwind&Props
+-> Understood how to configure tailwind
+-> What is props and how to use them?
+-> How to make a dumb component into a functional component using props
+
+07_BgChanger 
+-> Learnt basic state management
+
+08_PasswordGenerator
